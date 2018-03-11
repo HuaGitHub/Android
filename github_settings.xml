@@ -1,0 +1,6 @@
+<application>
+  <component name="GithubSettings">
+    <option name="HOST" value="github.com/HuaGitHub/Android" />
+    <option name="AUTH_TYPE" value="TOKEN" />
+  </component>
+</application>
